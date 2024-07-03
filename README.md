@@ -5,29 +5,29 @@ Welcome to the Inspired2go Daily Devotional app! We are committed to protectin
 This Privacy Policy outlines how we collect, use, and safeguard your data when you use our app.
 By using the Inspired2go Daily Devotional app, you implicitly agree to the terms of this Privacy Policy. Please read it carefully. If you have any concerns, feel free to contact our support team.
 ### Information We Collect
-	•	Personal Information:
-	•	When you create an account or use our app, we may collect various pieces of personal information to enhance your experience and ensure the proper functioning of our services. This information may include your name, email address, country, mobile number, and profile picture.
-	•	We do not collect sensitive information related to race, religion, health, or other similar categories.
-	•	Devotional Usage Data:
-	•	We collect data related to your usage of the app, including the devotional content you read, comment, bookmark, like, or share.
-	•	By understanding your preferences and behaviours, we can enhance the user experience and make the app more user-friendly.
-	•	We prioritize your privacy in all our data collection practices. Your usage data is handled with the utmost confidentiality and is used solely to improve your experience with our app. We do not share your personal usage data with third parties without your consent.
-	•	Device Information:
-	•	We collect information about your device, including its operating system, version, and unique device identifiers such as device ID.
-	•	Collecting this information allows us to effectively diagnose and resolve any technical issues you may encounter while using our app. It also help us to optimize the app performance across different devices
+#### Personal Information:
+1. When you create an account or use our app, we may collect various pieces of personal information to enhance your experience and ensure the proper functioning of our services. This information may include your name, email address, country, mobile number, and profile picture.
+2. We do not collect sensitive information related to race, religion, health, or other similar categories.
+#### Devotional Usage Data:
+1. We collect data related to your usage of the app, including the devotional content you read, comment, bookmark, like, or share.
+2. By understanding your preferences and behaviours, we can enhance the user experience and make the app more user-friendly.
+3. We prioritize your privacy in all our data collection practices. Your usage data is handled with the utmost confidentiality and is used solely to improve your experience with our app. We do not share your personal usage data with third parties without your consent.
+#### Device Information:
+1. We collect information about your device, including its operating system, version, and unique device identifiers such as device ID.
+2. Collecting this information allows us to effectively diagnose and resolve any technical issues you may encounter while using our app. It also help us to optimize the app performance across different devices
 ### How We Use Your Information
-	•	Personalization:
-	•	We use your information to personalize your experience within the app. This includes recommending relevant devotionals and customizing content based on your preferences.
-	•	Your email address may be used for communication related to the app.
-	•	Communication:
-	•	We may send you notifications, updates, and relevant information related to the app. You can control these communication preferences in your account settings.
-	•	Analytics and Improvements:
-	•	We analyze usage patterns to improve the app’s functionality and user experience.
-	•	This helps us identify areas for enhancement and fix any issues.
+#### Personalization:
+1. We use your information to personalize your experience within the app. This includes recommending relevant devotionals and customizing content based on your preferences.
+2. Your email address may be used for communication related to the app.
+#### Communication:
+1. We may send you notifications, updates, and relevant information related to the app. You can control these communication preferences in your account settings.
+#### Analytics and Improvements:
+We analyze usage patterns to improve the app’s functionality and user experience.
+This helps us identify areas for enhancement and fix any issues.
 ### Data Retention
-	•	Retention Period:
-	•	We retain your data for as long as it is necessary to provide the services offered by our application. This means that we will keep your information for the duration of your use of the app and as needed to comply with our legal obligations, resolve disputes, and enforce our agreements.
-	•	You can request deletion of your account and data at any time.
+#### Retention Period:
+We retain your data for as long as it is necessary to provide the services offered by our application. This means that we will keep your information for the duration of your use of the app and as needed to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You can request deletion of your account and data at any time.
 ### Data Security
 	•	Data Encryption:
 	•	We utilize industry-standard encryption techniques to safeguard your data during transmission between your device and our servers. This ensures that any data sent over the network is protected from interception or unauthorized access.
@@ -65,15 +65,15 @@ Welcome to the Inspired2go Daily Devotional app! By accessing and using our app,
 	•	The devotional content provided in the app is for spiritual and inspirational purposes.
 	•	You may not reproduce, distribute, or sell the content without our permission.
 #### User Responsibilities
-	•	Account Creation:
-	•	You are responsible for maintaining the strict confidentiality of your account credentials. These credentials, include usernames, passwords, and any other access information.
-	•	Do not share your account details with others.
-	•	User Conduct:
-	•	You agree not to use the app for any unlawful, harmful, or abusive purposes.
-	•	Respect other users and refrain from offensive behavior or comments that could be deemed offensive, disrespectful or harmful.
-	•	Accuracy of Information:
-	•	Ensure that the information you provide during registration is accurate and up-to-date.
-	•	We are not responsible for any inaccuracies in user-provided data.
+Account Creation:
+You are responsible for maintaining the strict confidentiality of your account credentials. These credentials, include usernames, passwords, and any other access information.
+Do not share your account details with others.
+User Conduct:
+You agree not to use the app for any unlawful, harmful, or abusive purposes.
+Respect other users and refrain from offensive behavior or comments that could be deemed offensive, disrespectful or harmful.
+Accuracy of Information:
+Ensure that the information you provide during registration is accurate and up-to-date.
+We are not responsible for any inaccuracies in user-provided data.
 Privacy
 	•	Privacy Policy:
 	•	Refer to our Privacy Policy for details on how we collect, use, and protect your personal information.
